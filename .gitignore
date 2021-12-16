@@ -1,0 +1,13 @@
+# Flutter
+.dart_tool
+build
+
+# IDE
+.idea
+.vscode
+
+# vim
+.swp
+
+# Mac OS
+.DS_Store
